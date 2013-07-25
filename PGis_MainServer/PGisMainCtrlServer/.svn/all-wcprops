@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer
+END
+PGisMainCtrlServer.vcproj.Jisen-PC.Jisen.user
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.vcproj.Jisen-PC.Jisen.user
+END
+BusinessManage_ConnectToLocationServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/BusinessManage_ConnectToLocationServer.cpp
+END
+BusinessManage_ConnectToShanhaiServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/BusinessManage_ConnectToShanhaiServer.cpp
+END
+TcpSelectSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/TcpSelectSocket.h
+END
+MultiProtocolProcess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/MultiProtocolProcess.cpp
+END
+SendTransmitManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/SendTransmitManager.h
+END
+TcpInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/TcpInterface.h
+END
+FTPConveyFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/FTPConveyFile.cpp
+END
+BusinessManage_ConToPub.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/BusinessManage_ConToPub.h
+END
+TcpClient_All.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/TcpClient_All.h
+END
+BusinessManage_ConnectToGPSCheckServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/BusinessManage_ConnectToGPSCheckServer.h
+END
+GLog.ini
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/GLog.ini
+END
+PGisMainCtrlServer.vcproj.HATITANG-201304.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.vcproj.HATITANG-201304.Administrator.user
+END
+DBManage_WebServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/DBManage_WebServer.h
+END
+TcpMainServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/TcpMainServer.h
+END
+IOSocketUdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/IOSocketUdp.h
+END
+TcpSelectSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/TcpSelectSocket.cpp
+END
+MemoryPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/MemoryPool.cpp
+END
+BusinessManage_ConnectToLocationServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/BusinessManage_ConnectToLocationServer.h
+END
+CompletionRoutineServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/CompletionRoutineServer.cpp
+END
+ListManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/ListManager.h
+END
+TcpClient_All.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/TcpClient_All.cpp
+END
+BusinessManage_ConToPub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/BusinessManage_ConToPub.cpp
+END
+MapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/MapManager.h
+END
+SendDataManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/SendDataManager.cpp
+END
+BusinessManage_ConnectToGPSCheckServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/BusinessManage_ConnectToGPSCheckServer.cpp
+END
+PGisMainCtrlServer.vcproj.KEVINTANG.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.vcproj.KEVINTANG.Administrator.user
+END
+rwini.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/rwini.cpp
+END
+IOSocketUdp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/IOSocketUdp.cpp
+END
+TcpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/TcpClient.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/ReadMe.txt
+END
+Resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/Resource.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/stdafx.h
+END
+BusinessManage_GISTerminal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/BusinessManage_GISTerminal.cpp
+END
+PGisMainCtrlServer.vcproj.vspscc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.vcproj.vspscc
+END
+PGisMainCtrlServer.rc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.rc
+END
+MemoryPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/MemoryPool.h
+END
+SwmrgLock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/SwmrgLock.cpp
+END
+GIOCPsocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/GIOCPsocket.cpp
+END
+CompletionRoutineServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/CompletionRoutineServer.h
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/Thread.h
+END
+SendDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/SendDataManager.h
+END
+WriteLogThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/WriteLogThread.cpp
+END
+WinServiceModule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/WinServiceModule.cpp
+END
+Encrypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/Encrypt.cpp
+END
+PGisMainCtrlServer.vcproj.SZ.t04576.user
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.vcproj.SZ.t04576.user
+END
+TcpClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/TcpClient.cpp
+END
+cpsx0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/cpsx0.dll
+END
+GisMainClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/GisMainClient.cpp
+END
+PGisMainCtrlServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/stdafx.cpp
+END
+PGisMainCtrlServer.vcproj.20110823-1609.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.vcproj.20110823-1609.Administrator.user
+END
+rwini.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/rwini.h
+END
+WebService.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/WebService.h
+END
+PGisMainCtrlServer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.vcproj
+END
+SendTransmitManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/SendTransmitManager.cpp
+END
+BusinessManage_GISTerminal.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/BusinessManage_GISTerminal.h
+END
+BusinessManage_ConnectToShanhaiServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/BusinessManage_ConnectToShanhaiServer.h
+END
+SwmrgLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/SwmrgLock.h
+END
+PGisMainCtrlServer.vcproj.HITOM-20130408.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.vcproj.HITOM-20130408.Administrator.user
+END
+GIOCPsocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/GIOCPsocket.h
+END
+MultiProtocolProcess.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/MultiProtocolProcess.h
+END
+cpsx0.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/cpsx0.lib
+END
+TcpMainServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/TcpMainServer.cpp
+END
+DBManage_WebServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/DBManage_WebServer.cpp
+END
+FTPConveyFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/FTPConveyFile.h
+END
+PGisMainCtrlServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.cpp
+END
+PGisMainCtrlServer.aps
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.aps
+END
+TService.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/TService.h
+END
+Encrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/Encrypt.h
+END
+WinServiceModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/WinServiceModule.h
+END
+WriteLogThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/WriteLogThread.h
+END
+GisMainClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/GisMainClient.h
+END
+PGisMainCtrlServer.vcproj.20130408-1915.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/PGisMainCtrlServer.vcproj.20130408-1915.Administrator.user
+END

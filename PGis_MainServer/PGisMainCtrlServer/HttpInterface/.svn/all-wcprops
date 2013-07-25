@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/HttpInterface
+END
+HttpInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/HttpInterface/HttpInterface.cpp
+END
+XMLParse.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/HttpInterface/XMLParse.h
+END
+XMLMakeUp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/HttpInterface/XMLMakeUp.cpp
+END
+HttpInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/HttpInterface/HttpInterface.h
+END
+XMLMakeUp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/HttpInterface/XMLMakeUp.h
+END
+XMLParse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/HttpInterface/XMLParse.cpp
+END

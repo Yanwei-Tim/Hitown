@@ -1,0 +1,6 @@
+09:08:38 [SYS] Hitom公网GPS接入系统 Version:1.2.0.6 
+09:08:38 [SYS] Build Time:Jul 16 2013 11:05:20 
+09:08:38 [SYS] LocalIP: LocalPort:9001 老式终端监听成功！ 
+09:08:38 [SYS] LocalIP: LocalPort:10002 新式终端监听成功！ 
+09:08:38 [SYS] RemoteIP:192.168.1.132 RemotePort:9003 LocalIP:192.168.1.132 启动接入至分发服务失败！ 
+09:08:38 [SYS] HiTown GPS公网接入服务程序启动成功!

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp
+END
+GSocketInside.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GSocketInside.h
+END
+GUdpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GUdpClient.h
+END
+GPerHandleData.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GPerHandleData.h
+END
+SwmrgLock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/SwmrgLock.cpp
+END
+GProcesserThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GProcesserThread.h
+END
+GWorkerThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GWorkerThread.h
+END
+GThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GThread.h
+END
+GTcpServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GTcpServer.cpp
+END
+GMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GMemory.h
+END
+GPerIoData.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GPerIoData.h
+END
+GMessageListData.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GMessageListData.h
+END
+GLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GLog.cpp
+END
+GCommProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GCommProtocol.h
+END
+GUdpServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GUdpServer.h
+END
+GSocketInside.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GSocketInside.cpp
+END
+GMessageList.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GMessageList.h
+END
+GUdpClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GUdpClient.cpp
+END
+GTcpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GTcpClient.h
+END
+GPerHandleData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GPerHandleData.cpp
+END
+GProcesserThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GProcesserThread.cpp
+END
+GSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GSocket.h
+END
+GWorkerThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GWorkerThread.cpp
+END
+ListManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/ListManager.h
+END
+SwmrgLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/SwmrgLock.h
+END
+MapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/MapManager.h
+END
+GThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GThread.cpp
+END
+GPerIoData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GPerIoData.cpp
+END
+GMemory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GMemory.cpp
+END
+GMessageListData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GMessageListData.cpp
+END
+HashmapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/HashmapManager.h
+END
+GCommProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GCommProtocol.cpp
+END
+GUdpServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GUdpServer.cpp
+END
+GMessageList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GMessageList.cpp
+END
+GTcpServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GTcpServer.h
+END
+GTcpClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GTcpClient.cpp
+END
+GLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/gps/!svn/ver/55/Test/PGis_MainServer/PGisMainCtrlServer/iocp/GLog.h
+END

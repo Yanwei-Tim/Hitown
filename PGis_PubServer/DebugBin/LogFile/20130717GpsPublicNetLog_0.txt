@@ -1,0 +1,24 @@
+10:51:24 [SYS] Hitom公网GPS接入系统 Version:1.2.0.6 
+10:51:24 [SYS] Build Time:Jul 15 2013 18:40:02 
+10:51:24 [SYS] LocalIP: LocalPort:9001 老式终端监听成功！ 
+10:51:24 [SYS] LocalIP: LocalPort:10002 新式终端监听成功！ 
+10:51:24 [SYS] RemoteIP:192.168.1.132 RemotePort:9003 LocalIP:192.168.1.132 启动接入至分发服务成功！ 
+10:51:25 [CPubToCon][ID:639944568] OnConnectError 继续重连
+11:05:26 [SYS] Hitom公网GPS接入系统 Version:1.2.0.6 
+11:05:26 [SYS] Build Time:Jul 15 2013 18:40:02 
+11:05:26 [SYS] LocalIP: LocalPort:9001 老式终端监听失败！ 
+11:05:26 [SYS] LocalIP: LocalPort:10002 新式终端监听失败！ 
+11:05:26 [SYS] RemoteIP:192.168.1.132 RemotePort:9003 LocalIP:192.168.1.132 启动接入至分发服务成功！ 
+11:05:27 [CPubToCon][ID:639943528] OnConnectError 继续重连
+11:05:34 [CPubToCon][ID:639943528] OnConnectError 继续重连
+11:05:41 [CPubToCon][ID:639943528] OnConnectError 继续重连
+11:05:48 [CPubToCon][ID:639943528] OnConnectError 继续重连
+11:05:54 [CPubToCon][ID:639943528] OnConnectError 继续重连
+11:06:00 [CPubToCon][ID:639943528] OnConnectError 继续重连
+11:06:06 [CPubToCon][ID:639943528] OnConnectError 继续重连
+11:15:35 [SYS] Hitom公网GPS接入系统 Version:1.2.0.6 
+11:15:35 [SYS] Build Time:Jul 15 2013 18:40:02 
+11:15:35 [SYS] LocalIP: LocalPort:9001 老式终端监听失败！ 
+11:15:35 [SYS] LocalIP: LocalPort:10002 新式终端监听失败！ 
+11:15:35 [SYS] RemoteIP:192.168.1.132 RemotePort:9003 LocalIP:192.168.1.132 启动接入至分发服务成功！ 
+11:15:36 [CPubToCon][ID:639943528] OnConnectError 继续重连

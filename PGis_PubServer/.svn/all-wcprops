@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/gps/!svn/ver/54/Test/PGis_PubServer
+END
+PubNetControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PubNetControl.cpp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/StdAfx.h
+END
+OldTerminal_BusinessManage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/OldTerminal_BusinessManage.h
+END
+Tcp_SelectSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/Tcp_SelectSocket.h
+END
+BaseBusinessManage.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/BaseBusinessManage.h
+END
+PGisPubNetServer.vcproj.HATITANG-201304.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.vcproj.HATITANG-201304.Administrator.user
+END
+GIOCPsocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/GIOCPsocket.cpp
+END
+PGisPubNetServer.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.dsp
+END
+MultiProtocolProcess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/MultiProtocolProcess.cpp
+END
+CompletionRoutineServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/CompletionRoutineServer.h
+END
+PGisPubNetServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.h
+END
+TcpInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/TcpInterface.h
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/Thread.h
+END
+ConToPub_BaseBusinessManage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/ConToPub_BaseBusinessManage.h
+END
+FTPConveyFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/FTPConveyFile.cpp
+END
+GPSProc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/GPSProc.cpp
+END
+PGisPubNetServer.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.dsw
+END
+WriteLogThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/WriteLogThread.cpp
+END
+WinServiceModule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/WinServiceModule.cpp
+END
+GLog.ini
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/GLog.ini
+END
+cpsx0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/cpsx0.dll
+END
+Tcp_MainServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/Tcp_MainServer.h
+END
+PGisPubNetServer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.vcproj
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/StdAfx.cpp
+END
+PGisPubNetServer.suo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.suo
+END
+rwini.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/rwini.h
+END
+Tcp_SelectSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/Tcp_SelectSocket.cpp
+END
+IOSocketUdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/IOSocketUdp.h
+END
+OldTerminal_BusinessManage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/OldTerminal_BusinessManage.cpp
+END
+BaseBusinessManage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/BaseBusinessManage.cpp
+END
+PubTerminalManage.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PubTerminalManage.h
+END
+PGisPubNetServer.vcproj.HITOM-20130408.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.vcproj.HITOM-20130408.Administrator.user
+END
+PubNetControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PubNetControl.h
+END
+CompletionRoutineServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/CompletionRoutineServer.cpp
+END
+PGisPubNetServer.plg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.plg
+END
+PGisPubNetServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.cpp
+END
+PGisPubNetServer.aps
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.aps
+END
+ConToPub_BaseBusinessManage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/ConToPub_BaseBusinessManage.cpp
+END
+PGisPubNetServer.positions
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.positions
+END
+GIOCPsocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/GIOCPsocket.h
+END
+MultiProtocolProcess.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/MultiProtocolProcess.h
+END
+PGisPubNetServer.sln
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.sln
+END
+Tcp_MainServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/Tcp_MainServer.cpp
+END
+cpsx0.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/cpsx0.lib
+END
+FTPConveyFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/FTPConveyFile.h
+END
+GPSProc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/GPSProc.h
+END
+PGisPubNetServer.opt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.opt
+END
+rwini.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/rwini.cpp
+END
+PGisPubNetServer.rc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PGisPubNetServer.rc
+END
+IOSocketUdp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/IOSocketUdp.cpp
+END
+WinServiceModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/WinServiceModule.h
+END
+WriteLogThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/WriteLogThread.h
+END
+PubTerminalManage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/PubTerminalManage.cpp
+END
+Resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/Resource.h
+END

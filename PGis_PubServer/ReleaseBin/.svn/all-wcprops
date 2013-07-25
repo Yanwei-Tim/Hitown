@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/ReleaseBin
+END
+start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/ReleaseBin/start.bat
+END
+PGisPubNetServer.exe
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/ReleaseBin/PGisPubNetServer.exe
+END
+cpsx0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/ReleaseBin/cpsx0.dll
+END
+stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/ReleaseBin/stop.bat
+END
+install.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/ReleaseBin/install.bat
+END
+pGisPubNetCfg.ini
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/ReleaseBin/pGisPubNetCfg.ini
+END
+uninstall.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gps/!svn/ver/54/Test/PGis_PubServer/ReleaseBin/uninstall.bat
+END
